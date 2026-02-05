@@ -7,17 +7,14 @@ import Contact from './sections/Contact'
 import Footer from './components/Footer'
 function App() {
   return (
-    <div className="bg-brand-cream">
+    <main className="bg-brand-cream overflow-x-hidden w-full"> 
       <Navbar />
       <Hero />
-      <Heritage/>
-      <Collection/>
-      <Contact/>
-      <Footer/>
-      
-      {/* Adding a dummy section just to enable scrolling for the navbar effect */}
-     
-    </div>
+      <Heritage />
+      <Collection />
+      <Contact />
+      <Footer />
+    </main>
   )
 }
 

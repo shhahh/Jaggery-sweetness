@@ -9,9 +9,11 @@ const Hero = () => {
     <section className="relative min-h-screen lg:h-[900px] w-full bg-brand-cream overflow-hidden flex items-center pt-[100px] lg:pt-0">
       
       {/* Background Text - Hidden on Mobile for clean look */}
-      <div className="absolute top-[150px] left-[-50px] select-none pointer-events-none hidden lg:block">
-        <h2 className="text-[200px] font-serif text-brand-dark/[0.03] leading-none uppercase">Artisanal</h2>
-      </div>
+     <div className="absolute top-[150px] left-[-50px] select-none pointer-events-none hidden lg:block">
+     <h2 className="text-[200px] font-serif text-brand-dark/[0.03] leading-none uppercase">
+         Artisanal
+     </h2>
+  </div>
 
       <div className="max-w-[1440px] mx-auto w-full px-6 md:px-12 lg:px-[80px] flex flex-col lg:flex-row items-center justify-between gap-12 lg:gap-0">
         

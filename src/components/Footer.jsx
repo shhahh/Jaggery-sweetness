@@ -7,7 +7,7 @@ const Footer = () => {
       <div className="max-w-[1440px] mx-auto">
         
         {/* Top Section */}
-        <div className="grid grid-cols-1 lg:grid-cols-2 gap-[60px] mb-[100px]">
+         <div className="grid grid-cols-1 lg:grid-cols-2 gap-10 lg:gap-[60px] mb-[60px] md:mb-[100px]">
           <div>
             <h2 className="text-[40px] md:text-[50px] font-serif leading-tight mb-8">
               Subscribe to the <br /> <span className="italic text-brand-gold">Nectar Circle</span>
@@ -35,7 +35,7 @@ const Footer = () => {
         </div>
 
         {/* Links Grid */}
-        <div className="grid grid-cols-2 md:grid-cols-2 lg:grid-cols-4 gap-[40px] mb-[100px] border-t border-white/5 pt-[60px]">
+       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-10 mb-[60px] md:mb-[100px] border-t border-white/5 pt-[60px]">
           <div>
             <h4 className="text-[12px] uppercase tracking-[3px] text-brand-gold mb-8 font-bold">Heritage</h4>
             <ul className="space-y-4 text-[14px] text-white/60 font-light tracking-wide">
