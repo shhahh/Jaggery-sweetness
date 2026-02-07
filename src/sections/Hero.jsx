@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 // Images import karein
-import papaImg from '../assets/papa.jpeg'; 
+import papaImg from '../assets/newpic.jpeg'; 
 import productImg from '../assets/gud.jpg'; 
 
 const Hero = () => {

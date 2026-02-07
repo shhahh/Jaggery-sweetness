@@ -61,7 +61,7 @@ const Heritage = () => {
 
               <div className="space-y-6 md:space-y-[30px] text-left text-brand-dark/70 text-base md:text-lg leading-7 md:leading-[32px] font-light">
                 <p>
-                  At Nectar Earth, we believe time is the most important ingredient.
+                  At PradhanGud-Factory, we believe time is the most important ingredient.
                   Our Jaggery is slow-cooked in iron vats over wood-fire flame,
                   just as it was 100 years ago.
                 </p>
