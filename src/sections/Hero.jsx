@@ -36,7 +36,7 @@ const Hero = () => {
             
             <h1 className="text-[48px] md:text-[70px] lg:text-[85px] font-serif leading-[1.1] text-brand-dark mb-10">
               {showProduct ? (
-                <>Nature’s Own <br /><span className="italic text-brand-gold">Amber Glow.</span></>
+                <>Nature’s Own <br /><span className="italic text-brand-gold">Pure Gud.</span></>
               ) : (
                 <>Tradition <br /><span className="italic text-brand-gold">Personified.</span></>
               )}
